@@ -1,0 +1,34 @@
+- project :
+    print : True 
+    modal : True  
+    url :  # Full URL
+    image :  # path: assets/project/
+    date : 2021.05.08 - Developing
+    title : 
+    summary : 
+    description : 
+    contents :
+        - title : 1. 기간
+          image : 
+          description : 
+        - title : 2. 프로젝트 명
+          image : 
+          description : 
+        - title : 3. 설명
+          image :
+          description : 
+        - title : 4. 기술 스택
+          image :
+          description : 
+        - title : 5. 나의 역할
+          image : 
+          description : 
+        - title : 6. 이슈
+          image : 
+          description : 
+        - title : 7. 느낀점
+          image : 
+          description :  
+        - title : 8. 더 추가하고 싶은 것
+          image : 
+          description : 
