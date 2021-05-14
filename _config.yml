@@ -12,11 +12,11 @@ theme_settings :
     image : assets/img/hee.jpg
     username : sehee kim
     description : Sunrin Internet High School 115 <br> IWOP 22
-    experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
-    skills : 
+    # experience :
+    #   - start : 2017-05-03
+    #     end : 2018-05-06
+    #     experience : company name, title
+    #skills : 
     #   - skill : HTML5 & CSS
     #     value : 85  # Percent value
         
