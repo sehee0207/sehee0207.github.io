@@ -1,7 +1,7 @@
 ---
 layout: post
 title: STOPBADWORD
-subtitle : 비속어를 다른 단어로 바꿔주는 앱
+subtitle : 비속어를 줄일 수 있게 도움을 주는 앱
 tags: [App]
 author: Sehee Kim
 comments : False
