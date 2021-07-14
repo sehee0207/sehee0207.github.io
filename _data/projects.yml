@@ -11,12 +11,12 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :   # Full URL
+    url :   https://github.com/sehee0207/Frontend # Full UPL
     image : # path: assets/project/
     date : 2020.09.25 - 2020.12.28 - Developing
     title : Drain
     summary : 
-    description : 디지털 콘텐츠 대회 예선/본선
+    description : 2020 디지털 콘텐츠 경진대회 예선/본선
 
 - project :
     print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -37,5 +37,13 @@
     title : BOvOK
     summary : 
     description : 2021 겨울방학 소수전공 React
-    contents :
 
+- project :
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : https://github.com/sehee0207/Custom_keyboard # Full URL
+    image :  # path: assets/project/
+    date : 2021.05.08 ~ 2021.06.18 - Developing
+    title : STOPBADWORD
+    summary : 
+    description : 2021 모바일 콘텐츠 경진대회 예선
