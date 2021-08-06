@@ -1,8 +1,8 @@
 ---
 layout: post
-title: STOPBADWORD
+title: 비속어 멈춰!
 subtitle : 비속어를 줄일 수 있게 도움을 주는 앱
-tags: [App]
+tags: [Dev, App]
 author: Sehee Kim
 comments : False
 ---
@@ -11,8 +11,7 @@ comments : False
 2021.05.08 - 2021.06.18
 
 <h3> 2. 프로젝트 명</h3>
-비속어 멈춰! (STOPBADWORD), <br>
-파일 이름이 한글이니까 에러가 떠서 급하게 영어로 지어봤다. 정해서 제출한 이름은 비속어 멈춰! 이다.
+비속어 멈춰!
 
 <h3> 3. 설명</h3>
 비속어를 다른 단어로 바꿔줘서 욕설을 줄일 수 있도록 도움을 주는 앱<br>
