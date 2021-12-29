@@ -8,7 +8,7 @@ comments : False
 ---
 
 <h3> 1. 기간</h3>
-21.10.25 - 21.11.12
+2021.10.25 - 2021.11.12
 
 <h3> 2. 프로젝트 명</h3>
 Reverse-HangmanGame
@@ -35,3 +35,6 @@ Reverse-HangmanGame
 
 <h3> 8. 보완하고 싶은 점</h3>
 다른 친구들에 비해 비교적 간단한 콘솔 게임을 개발한 것이 아쉬웠다. 지금 생각해보니 콘솔 게임보다 Swing 을 이용했으면 더 좋았을 것 같다. 내가 개발하기에는 충분히 어려웠지만 다른 친구들에 비해서 수준이 낮은 것 같아서 다음에는 더 욕심 부려서 프로젝트를 기획하고 진행해봐도 괜찮을 것 같다.
+
+<h3> 9. Github</h3>
+[Reverse-Hangman](https://github.com/sehee0207/Reverse-hangman)

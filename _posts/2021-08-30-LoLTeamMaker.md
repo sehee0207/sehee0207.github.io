@@ -54,3 +54,6 @@ suffleTeam 함수는 말 그대로 팀을 섞는 함수이다. 기본적으로 �
 3) 인원수 조절 기능 : 사용자 설정 게임을 하는 인원이 10명 미만이더라도 균형 잡힌 팀을 구성해주는 기능 <br>
 
 4) 유저 친화적인 인터페이스 기능 : 사용자가 더 쉽게 웹페이지의 기능을 사용할 수 있도록 변경<br>
+
+<h3> 9. Github</h3>
+[LoLTeamMaker](https://github.com/sehee0207/LoLTeamMaker)

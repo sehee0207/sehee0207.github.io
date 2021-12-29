@@ -35,3 +35,6 @@ ex. 응애 → 나쁜말<br>
 
 <h3> 8. 보완하고 싶은 점</h3>
 욕설 카운트 기능 등 부가적인 기능이 부족한 것 같아서 아쉽다.
+
+<h3> 9. Github</h3>
+[Custom_keyboard](https://github.com/sehee0207/Custom_keyboard)
