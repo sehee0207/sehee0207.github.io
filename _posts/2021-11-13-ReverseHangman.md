@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reverse-HangmanGame
-subtitle : 2학기 자료구조 프로젝트 
+subtitle : 2학년 2학기 자료구조 프로젝트 
 tags: [Notice]
 author: Sehee Kim
 comments : False

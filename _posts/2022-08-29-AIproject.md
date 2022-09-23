@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 
-subtitle : 
-tags: [Dev, Web]
+title: 뇌졸중 예측 머신러닝
+subtitle : 3학년 1학기 인공지능 프로젝트
+tags: [Dev, AI]
 author: Sehee Kim
 comments : False
 --- 

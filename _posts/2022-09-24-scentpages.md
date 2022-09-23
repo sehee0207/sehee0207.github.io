@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-subtitle : 
+title: Scent Pages
+subtitle : 3학년 1학기 응용프로그래밍 프로젝트
 tags: [Dev, Web]
 author: Sehee Kim
 comments : False
