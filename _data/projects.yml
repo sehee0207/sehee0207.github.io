@@ -1,49 +1,70 @@
 - project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  'https://github.com/sehee0207/Frontend' # Full UPL
+    image : # path: assets/project/
+    date : 2020.09.25 - 2020.12.28
+    title : Drain
+    summary : 
+    description : 퍼즐 형식의 웹 게임
+
+- project :
     print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  https://github.com/sehee0207/omoc # Full URL
-    image : # path: assets/project/
-    date : 2020.08.10 - 2020.08.30 - Developing
-    title : omoc-master
+    url :  https://github.com/sehee0207/Custom_keyboard # Full URL
+    image :  # path: assets/project/
+    date : 2021.05.08 ~ 2021.06.18
+    title : STOPBADWORD
     summary : 
-    description : IWOP 여름방학 프로젝트
+    description : 커스텀 키보드
+
+
+- project :
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/sehee0207/Custom_keyboard # Full URL
+    image :  # path: assets/project/
+    date : 2021.10.25 ~ 2021.11.12
+    title : Reverse hangman
+    summary : 
+    description : 영어 단어 암기를 위한 행맨 게임
+
+- project :
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/sehee0207/Tasting_Notes # Full URL
+    image :  # path: assets/project/
+    date : 2021.11.03 ~ 2021.12.01
+    title : Tasting Notes
+    summary : 
+    description : 인스타그램 클론 코딩
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :   https://github.com/sehee0207/Frontend # Full UPL
-    image : # path: assets/project/
-    date : 2020.09.25 - 2020.12.28 - Developing
-    title : Drain
-    summary : 
-    description : 2020 디지털 콘텐츠 경진대회 예선/본선
-
-- project :
-    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  https://github.com/sehee0207/WPG # Full URL
-    image : # path: assets/project/
-    date : 2020.12.20 ~ 2021.01.27 - Developing
-    title : WPG
-    summary : 
-    description : 정보통신 프로젝트
-
-- project :
-    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/sehee0207/BOvOK # Full URL
+    url :  https://github.com/sehee0207/RMH # Full URL
     image :  # path: assets/project/
-    date : 2021.01.04 ~ 2021.01.13 - Developing
-    title : BOvOK
+    date : 2021.08.24 ~ 2021.12.27
+    title : 내 손안의 맛집
     summary : 
-    description : 2021 겨울방학 소수전공 React
+    description : 현 위치를 중심으로 사용자 주변의 맛집 추천
 
 - project :
     print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/sehee0207/Custom_keyboard # Full URL
+    url :  https://github.com/sehee0207/Gangtaegong_ # Full URL
     image :  # path: assets/project/
-    date : 2021.05.08 ~ 2021.06.18 - Developing
-    title : STOPBADWORD
+    date : 2022.06.11 ~ 2022.06.27
+    title : 강태공의 요리교실
     summary : 
-    description : 2021 모바일 콘텐츠 경진대회 예선
+    description : Match3 게임
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/sehee0207/Scent_Pages # Full URL
+    image :  # path: assets/project/
+    date : 2022.04.27 ~ 2022.08.15
+    title : Scent Pages
+    summary : 
+    description : 향수 공유 커뮤니티

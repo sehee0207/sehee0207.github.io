@@ -2,7 +2,7 @@
 layout: post
 title: Tasting Notes
 subtitle : 2학년 2학기 웹프로그래밍 프로젝트 
-tags: [Dev, Web]
+tags: [Web]
 author: Sehee Kim
 comments : False
 ---

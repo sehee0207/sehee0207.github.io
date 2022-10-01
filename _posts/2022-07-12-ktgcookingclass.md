@@ -2,7 +2,7 @@
 layout: post
 title: 강태공의 요리교실
 subtitle : Match3 게임
-tags: [Dev, Game]
+tags: [Game]
 author: Sehee Kim
 comments : False
 --- 

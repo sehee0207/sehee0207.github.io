@@ -2,12 +2,13 @@
 layout: post
 title: 뇌졸중 예측 머신러닝
 subtitle : 3학년 1학기 인공지능 프로젝트
-tags: [Dev, AI]
+tags: [AI]
 author: Sehee Kim
 comments : False
 --- 
 
 <h3> 1. 기간</h3>
+2022.05.11 - 2022.06.09
 
 <h3> 2. 프로젝트 명</h3>
 

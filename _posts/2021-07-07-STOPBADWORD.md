@@ -2,7 +2,7 @@
 layout: post
 title: 비속어 멈춰!
 subtitle : 비속어를 줄일 수 있게 도움을 주는 앱
-tags: [Dev, App]
+tags: [App]
 author: Sehee Kim
 comments : False
 ---

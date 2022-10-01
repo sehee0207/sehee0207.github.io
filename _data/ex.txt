@@ -1,0 +1,13 @@
+- project :
+    print : True
+    modal : True  
+    url :  # Full URL
+    image :  # path: assets/project/
+    date : 2021.05.08 - Developing
+    title : 
+    summary : 
+    description : 
+    contents :
+        - title :
+          image : 
+          description : 

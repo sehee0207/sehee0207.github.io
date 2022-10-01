@@ -2,7 +2,7 @@
 layout: post
 title: LoLTeamMaker
 subtitle : 라이엇 API를 이용한 롤 내전 팀 분배 웹 사이트
-tags: [Dev, Web]
+tags: [Web]
 author: Sehee Kim
 comments : False
 ---

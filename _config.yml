@@ -22,7 +22,7 @@ theme_settings :
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email: lolry0207@gmail.com # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
     github: sehee0207
     gitlab: 
@@ -31,13 +31,13 @@ theme_settings :
     twitter:
     youtube:
     facebook:
-    instagram: lolry_18
+    instagram: lolry_19
 
   # Disqus
   disqus_shortname :
 
 # Pagination
-paginate: 5 #한 페이지에서 보여질 게시물 수를 정의
+paginate: 8 #한 페이지에서 보여질 게시물 수를 정의
 paginate_path: "blog/page:num"
 
 # Build Ssttings
