@@ -37,7 +37,7 @@ theme_settings :
   disqus_shortname :
 
 # Pagination
-paginate: 8 #한 페이지에서 보여질 게시물 수를 정의
+paginate: 6 #한 페이지에서 보여질 게시물 수를 정의
 paginate_path: "blog/page:num"
 
 # Build Ssttings
