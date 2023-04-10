@@ -26,7 +26,7 @@ Scent Pages
 <h3> 8. 보완하고 싶은 점</h3>
 
 <h3> 9. Github</h3>
-[]()
+[Scent Pages](https://github.com/sehee0207/Scent_Pages)
 
 {% highlight html %}
 {% endhighlight %}

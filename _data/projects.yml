@@ -16,8 +16,17 @@
     date : 2021.05.08 ~ 2021.06.18
     title : STOPBADWORD
     summary : 
-    description : 커스텀 키보드
+    description : 안드로이드 영문 키보드
 
+- project :
+    print : True
+    modal : True  
+    url :  https://github.com/sehee0207/LoLTeamMaker
+    image :  # path: assets/project/
+    date : 2021.07.25 ~ 2021.08.22
+    title : LoLTeamMaker
+    summary : 
+    description : 롤 팀 배분 웹 사이트
 
 - project :
     print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -26,18 +35,8 @@
     image :  # path: assets/project/
     date : 2021.10.25 ~ 2021.11.12
     title : Reverse hangman
-    summary : 
+    summary : 2학년 자료구조
     description : 영어 단어 암기를 위한 행맨 게임
-
-- project :
-    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  https://github.com/sehee0207/Tasting_Notes # Full URL
-    image :  # path: assets/project/
-    date : 2021.11.03 ~ 2021.12.01
-    title : Tasting Notes
-    summary : 
-    description : 인스타그램 클론 코딩
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -46,8 +45,29 @@
     image :  # path: assets/project/
     date : 2021.08.24 ~ 2021.12.27
     title : 내 손안의 맛집
-    summary : 
+    summary : 2학년 진로
     description : 현 위치를 중심으로 사용자 주변의 맛집 추천
+    
+- project :
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/sehee0207/Tasting_Notes # Full URL
+    image :  # path: assets/project/
+    date : 2021.11.03 ~ 2021.12.01
+    title : Tasting Notes
+    summary : 2학년 웹 프로그래밍
+    description : 인스타그램 클론 코딩
+
+- project :
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/sehee0207/duck # Full URL
+    image :  # path: assets/project/
+    date : 2022.12.27 ~ 2022.12.29
+    title : duck
+    summary : 2학년
+    description : 웹 게임
+
 
 - project :
     print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -56,7 +76,7 @@
     image :  # path: assets/project/
     date : 2022.06.11 ~ 2022.06.27
     title : 강태공의 요리교실
-    summary : 
+    summary : 3학년 게임 프로그래밍
     description : Match3 게임
 
 - project :
@@ -64,7 +84,7 @@
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  https://github.com/sehee0207/Scent_Pages # Full URL
     image :  # path: assets/project/
-    date : 2022.04.27 ~ 2022.08.15
+    date : 2022.04.27 ~ 2023.08.15
     title : Scent Pages
-    summary : 
+    summary : 3학년 응용 프로그래밍
     description : 향수 공유 커뮤니티
